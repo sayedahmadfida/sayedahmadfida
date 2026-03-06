@@ -25,7 +25,6 @@ I specialize in building **robust backend systems, RESTful APIs, and scalable we
 
 ![Tools](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,docker,figma,linux,selenium)
 
-
 ## ⭐ Professional Strengths
 
 - ✅ Clean and scalable code architecture
