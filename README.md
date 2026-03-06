@@ -63,8 +63,6 @@ I'm always open to collaboration on **open-source projects, startups, and innova
 💼 Backend Development  
 ⚡ API Development  
 🌐 Full Stack Web, Desktop, and Mobile Applications  
-✉️ sayed.ahmad.fida.af@gmail.com
-
 ---
 
 ⭐ *Thank you for visiting my GitHub profile!*
